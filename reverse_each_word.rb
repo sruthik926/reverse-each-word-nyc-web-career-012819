@@ -3,5 +3,4 @@ def reverse_each_word(str)
   strArr.each do |x|
     puts x.reverse
   end
-  
 end
